@@ -1,0 +1,11 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "Flock of Birds BS",
+      "license": "MIT",
+      "author": "Andries Smit",
+      "boilerplate": "empty",
+      "widgetoptions": []
+    }
+  }
+}
