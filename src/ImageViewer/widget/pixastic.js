@@ -3,7 +3,6 @@
  * Copyright (c) 2008 Jacob Seidelin, jseidelin@nihilogic.dk, http://blog.nihilogic.dk/
  * MIT License [http://www.pixastic.com/lib/license.txt]
  */
-dojo.provide("ImageViewer.widget.pixastic");
 
 var Pixastic=(function(){function addEvent(el,event,handler){if(el.addEventListener)
 el.addEventListener(event,handler,false);else if(el.attachEvent)
